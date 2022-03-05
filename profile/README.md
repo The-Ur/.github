@@ -23,7 +23,7 @@ Check us out at https://urth.earth
 
 ---
 
-### For engineers, programmers, or people with money lying on their couch:
+### For engineers, programmers, or investors curious in our products:
 
 If you would like to see a demo, please email us at
 <a href="mailto:urworldllc@gmail.com">urworldllc@gmail.com</a>
