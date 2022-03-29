@@ -20,13 +20,3 @@ The Ur provides this technology through both software and hardware: from machine
 computer vision to communicative positional hardware using advanced algorithms.
 
 Check us out at https://urth.earth
-
----
-
-### For engineers, programmers, or investors curious in our products:
-
-If you would like to see a demo, please email us at
-<a href="mailto:urworldllc@gmail.com">urworldllc@gmail.com</a>
-
-If you're interested in working with us or have any questions, 
-please email us at <a href="mailto:urworldllc@gmail.com">urworldllc@gmail.com</a>
