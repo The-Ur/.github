@@ -20,3 +20,7 @@ The Ur provides this technology through both software and hardware: from machine
 computer vision to communicative positional hardware using advanced algorithms.
 
 Check us out at https://urth.earth
+
+Looking to integrate with the Ur? [Apply here!](https://forms.gle/3gW9AjWZYKpWrjfF7)
+
+Want to help build this cool shtuff? [Apply here!](https://forms.gle/xKYRsnuf8STUV9h56)
